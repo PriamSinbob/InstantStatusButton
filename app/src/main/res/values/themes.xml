@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.InstantStatusButton" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.InstantStatusButton.Transparent" parent="android:Theme.Translucent.NoTitleBar">
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>
